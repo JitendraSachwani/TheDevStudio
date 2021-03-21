@@ -16,7 +16,7 @@ public enum FxmlView {
 
         @Override
         String getFilePath() {
-            return "../fxml/base.fxmls";
+            return "../fxml/base.fxml";
         }
 
     },
